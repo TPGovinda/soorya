@@ -43,6 +43,6 @@ jobs:
       with:
        image: 86808/httpd
        registry: docker.io
-       username: 86808
-       password: ${{ secrets.DOCKERPASSWORD }}
+       username: govindaraos608@gmail.com
+       password: Winter@123
       
