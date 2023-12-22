@@ -41,7 +41,7 @@ jobs:
       uses: mr-smithers-excellent/docker-build-push@v6
     
       with:
-       image: 86808/httpd
+       image: 86808/hello
        registry: docker.io
        username: govindaraos608@gmail.com
        password: Winter@123
